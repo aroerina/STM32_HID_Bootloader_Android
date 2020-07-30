@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">STM32_HID_Programmer</string>
+    <string name="text_button">Program</string>
+    <string name="text_disconnect">Disconnect</string>
+    <string name="text_connected">Connected</string>
+    <string name="text_programming">Programming...</string>
+    <string name="text_done">Programming done</string>
+    <string name="text_progress">Programming progress:</string>
+
+</resources>
